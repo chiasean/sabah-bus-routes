@@ -4,6 +4,82 @@
     "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d9266.127758424962!2d116.05867405095992!3d5.95818733644768!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2smy!4v1732961016066!5m2!1sen!2smy",
     "buses": [
         {
+            "uid": "001a",
+            "busName": "1A",
+            "towards": [
+                {
+                    "destination": "Likas",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PURPLE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/1A-KG-LIKAS-1.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "001b",
+            "busName": "1B",
+            "towards": [
+                {
+                    "destination": "Taman Kingfisher",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PURPLE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/1B-TMN-KINGFISHER-1.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "001c",
+            "busName": "1C",
+            "towards": [
+                {
+                    "destination": "UMS",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PURPLE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/1C-UMS-1.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "001d",
+            "busName": "1D",
+            "towards": [
+                {
+                    "destination": "University Apartment",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PURPLE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/1D-UNIVERSITY-APARTMENT.pdf",
+            "date_check": ""
+        },
+        {
             "uid": "001",
             "busName": "4A",
             "towards": [
@@ -61,6 +137,25 @@
             "date_check": "24 Jan 2025"
         },
         {
+            "uid": "004a",
+            "busName": "6A",
+            "towards": [
+                {
+                    "destination": "Sepanggar",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "BLUE",
+            "remark": "",
+            "date_check": ""
+        },
+        {
             "uid": "004",
             "busName": "6B",
             "towards": [
@@ -78,6 +173,44 @@
             "colour": "BLUE",
             "remark": "wait until full",
             "date_check": "24 Jan 2025"
+        },
+        {
+            "uid": "004x",
+            "busName": "6C",
+            "towards": [
+                {
+                    "destination": "UITM",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "BLUE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/10/6C_UITM.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "005a",
+            "busName": "7A",
+            "towards": [
+                {
+                    "destination": "Telipok",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "BLUE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2026/04/7A-TELIPOK.pdf",
+            "date_check": ""
         },
         {
             "uid": "005",
@@ -137,6 +270,44 @@
             "date_check": "24 Jan 2025"
         },
         {
+            "uid": "007x",
+            "busName": "8C",
+            "towards": [
+                {
+                    "destination": "Tuaran",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "BLUE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2026/04/8C-TUARAN.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "007y",
+            "busName": "8D",
+            "towards": [
+                {
+                    "destination": "Tuaran",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "BLUE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/10/8D_TUARAN.pdf",
+            "date_check": ""
+        },
+        {
             "uid": "008",
             "busName": "10A",
             "towards": [
@@ -194,44 +365,6 @@
             "date_check": "11-Nov-24"
         },
         {
-            "uid": "011",
-            "busName": "12A",
-            "towards": [
-                {
-                    "destination": "Beverly Hills",
-                    "route": "https://maps.app.goo.gl/xAhDGcbTbjsqSJGp9",
-                    "notes": "Partial"
-                },
-                {
-                    "destination": "Kota Kinabalu",
-                    "route": "https://maps.app.goo.gl/kQjyKcpKzqyj1x8c9",
-                    "notes": "Partial"
-                }
-            ],
-            "colour": "ORANGE",
-            "remark": "",
-            "date_check": "27 Jan 2025"
-        },
-        {
-            "uid": "012",
-            "busName": "12B",
-            "towards": [
-                {
-                    "destination": "Beverly Hills",
-                    "route": "https://maps.app.goo.gl/xAhDGcbTbjsqSJGp9",
-                    "notes": "Partial"
-                },
-                {
-                    "destination": "Kota Kinabalu",
-                    "route": "https://maps.app.goo.gl/kQjyKcpKzqyj1x8c9",
-                    "notes": "Partial"
-                }
-            ],
-            "colour": "ORANGE",
-            "remark": "",
-            "date_check": "27 Jan 2025"
-        },
-        {
             "uid": "013",
             "busName": "12A*",
             "towards": [
@@ -270,6 +403,25 @@
             "date_check": "27 Jan 2025"
         },
         {
+            "uid": "014x",
+            "busName": "12C",
+            "towards": [
+                {
+                    "destination": "Country Height",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "ORANGE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/12C-COUNTRY-HEIGHT.pdf",
+            "date_check": ""
+        },
+        {
             "uid": "015",
             "busName": "13A",
             "towards": [
@@ -306,6 +458,82 @@
             "colour": "ORANGE",
             "remark": "",
             "date_check": "11-Nov-24"
+        },
+        {
+            "uid": "016w",
+            "busName": "13D",
+            "towards": [
+                {
+                    "destination": "Terminal Bas Donggongon",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "ORANGE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2025/06/13D.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "016x",
+            "busName": "13E",
+            "towards": [
+                {
+                    "destination": "Terminal Bas Donggongon",
+                    "route": "https://maps.app.goo.gl/AS5A7coyg2a1gNLa6",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "https://maps.app.goo.gl/mmkpBk5MeViAtqEB8",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "ORANGE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2026/02/13E.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "016y",
+            "busName": "13F",
+            "towards": [
+                {
+                    "destination": "Terminal Bas Donggongon",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "ORANGE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2025/06/13F.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "017a",
+            "busName": "14A",
+            "towards": [
+                {
+                    "destination": "Kepayan Ridge",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "ORANGE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/14A-KEPAYAN-RIDGE.pdf",
+            "date_check": ""
         },
         {
             "uid": "017",
@@ -365,6 +593,25 @@
             "date_check": "11-Nov-24"
         },
         {
+            "uid": "019x",
+            "busName": "16C",
+            "towards": [
+                {
+                    "destination": "Pantai Tanjung Aru",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PURPLE",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/09/16C-PANTAI-TG-ARU.pdf",
+            "date_check": ""
+        },
+        {
             "uid": "020",
             "busName": "17A",
             "towards": [
@@ -401,6 +648,25 @@
             "colour": "RED",
             "remark": "",
             "date_check": "11-Nov-24"
+        },
+        {
+            "uid": "021m",
+            "busName": "18B",
+            "towards": [
+                {
+                    "destination": "Putatan",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "RED",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2023/10/18B_PUTATAN.pdf",
+            "date_check": ""
         },
         {
             "uid": "022",
@@ -502,7 +768,7 @@
             "busName": "21B",
             "towards": [
                 {
-                    "destination": "Papar",
+                    "destination": "Kinarut",
                     "route": "",
                     "notes": "undef"
                 },
@@ -513,8 +779,65 @@
                 }
             ],
             "colour": "RED",
-            "remark": "",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2026/04/21B-KINARUT.pdf",
             "date_check": "11-Nov-24"
+        },
+        {
+            "uid": "028",
+            "busName": "22A",
+            "towards": [
+                {
+                    "destination": "Kimanis",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "RED",
+            "remark": "refer https://www.lpkpsabah.gov.my/wp-content/uploads/2026/03/22A-KIMANIS.pdf",
+            "date_check": ""
+        },
+        {
+            "uid": "029",
+            "busName": "S01",
+            "towards": [
+                {
+                    "destination": "Lingkaran KK Sentral",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PINK",
+            "remark": "refer https://jaguhbayu.com.my/BAS.MY-KotaKinabalu/routes",
+            "date_check": ""
+        },
+        {
+            "uid": "030",
+            "busName": "S05",
+            "towards": [
+                {
+                    "destination": "Likas / KPJ",
+                    "route": "",
+                    "notes": "undef"
+                },
+                {
+                    "destination": "Kota Kinabalu",
+                    "route": "",
+                    "notes": "undef"
+                }
+            ],
+            "colour": "PINK",
+            "remark": "refer https://jaguhbayu.com.my/BAS.MY-KotaKinabalu/routes",
+            "date_check": ""
         }
     ]
 }
